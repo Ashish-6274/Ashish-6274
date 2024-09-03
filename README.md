@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ashish
-- 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning about Generative AI and LLM Models
+- 👋 Hi, I’m Ashish.
+- 👀 I’m interested in Machine Learning and Artificial Intelligence.
+- 🌱 I’m currently learning about Generative AI and LLM Models.
 - 💞️ I’m looking to collaborate on projects related to the AI/ML Field.
-- 📫 You can reach me on LinkedIn
+- 📫 You can reach me on LinkedIn.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Did you know that the first computer mouse was made of wood?
