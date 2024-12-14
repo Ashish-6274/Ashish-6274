@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on projects related to the AI/ML Field.
 - 📫 You can reach me on LinkedIn. (https://www.linkedin.com/in/ashish6274)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love challenges, I mean, who doesn't?
+- ⚡ Fun fact: I love coding, I mean, who doesn't?
